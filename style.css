@@ -1,0 +1,28 @@
+body {
+    background: #f4f6f9;
+}
+
+.auth-container {
+    max-width: 450px;
+    margin: 60px auto;
+}
+
+.dashboard {
+    max-width: 700px;
+    margin: 60px auto;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+.security-info {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.security-info p {
+    margin-bottom: 8px;
+}
