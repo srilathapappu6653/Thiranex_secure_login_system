@@ -210,8 +210,7 @@ The project folder contains output screenshots for demonstrating the working app
 
 ## Live Demo
 
-**Live Demo:** https://login-system-z7is.vercel.app/
-
+**Live Demo:** https://vercel.com/srilathapappu6653s-projects/thiranex-secure-login-system-bwgk
 ## Demo Flow
 
 1. Open the live demo.
